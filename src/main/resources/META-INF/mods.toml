@@ -1,0 +1,12 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory
+[[mods]] #mandatory
+modId="outsidevanilla" #mandatory
+version="1.0.0" #mandatory
+logoFile="logo.png"
+authors="Chokemonster" #optional
+displayName="Outside Vanilla" #mandatory
+description='''
+Adds stuff that chokemonster didn't feel fit in Better Vanilla
+Mostly fun stuff.
+'''
